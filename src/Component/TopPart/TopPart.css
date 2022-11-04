@@ -1,0 +1,29 @@
+.seo-button {
+  padding: 17px 50px;
+  background-color: rgb(251, 164, 76) !important;
+}
+.seo-button:hover {
+  background-color: rgb(251, 164, 76);
+}
+.social-icons {
+  font-size: 70px;
+}
+.div-container {
+  background-color: black;
+  color: white;
+  padding: 15px 14px;
+}
+.div-container p {
+  font-size: 27px;
+}
+.lg-text {
+  font-size: 64px;
+  color: black;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 760px) {
+  .lg-text {
+    font-size: 38px;
+  }
+}

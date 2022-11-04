@@ -1,0 +1,15 @@
+.text-pink {
+  color: rgb(251, 164, 76);
+}
+.bg-pink {
+  background-color: rgb(251, 164, 76);
+}
+.local-seo-cercle {
+  border-radius: 50%;
+  padding: 34px 26px;
+}
+.form-btn {
+  background-color: rgb(251, 164, 76) !important;
+  border-radius: 20px !important;
+  padding: 13px 60px !important;
+}
